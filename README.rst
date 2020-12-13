@@ -2,11 +2,28 @@
 Transformer
 ===========
 
-List of all the papers on transformers
+List of all the papers on transformers for computer vision.
 
 2021
 ****
 
-ICLR
-++++
-- `AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE <https://openreview.net/pdf?id=YicbFdNTTy>`_
+- `An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale <https://openreview.net/pdf?id=YicbFdNTTy>`_
+
+- `Rethinking Attention with Performers <https://arxiv.org/pdf/2009.14794.pdf>`_
+
+- `End-to-end Lane Shape Prediction with Transformers <https://arxiv.org/pdf/2011.04233.pdf>`_
+
+- `Visual Transformers: Token-based Image Representation and Processing for Computer Vision <https://arxiv.org/pdf/2006.03677.pdf>`_
+
+- `UP-DETR: Unsupervised Pre-training for Object Detection with Transformers <https://arxiv.org/pdf/2011.09094.pdf>`_
+
+2020
+****
+
+- `End-to-End Object Detection with Transformers <https://arxiv.org/pdf/2005.12872.pdf>`_
+
+
+2018
+****
+
+- `Image Transformer <https://arxiv.org/pdf/1802.05751.pdf>`_
