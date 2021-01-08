@@ -4,6 +4,11 @@ Transformer
 
 List of all the papers on transformers for computer vision.
 
+Surveys
+=======
+
+- `A Survey on Visual Transformer <https://arxiv.org/pdf/2012.12556.pdf>`_
+
 2021
 ****
 
