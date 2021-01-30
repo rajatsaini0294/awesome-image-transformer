@@ -15,6 +15,8 @@ Papers
 2021
 ****
 
+- `Bottleneck Transformers for Visual Recognition <https://arxiv.org/pdf/2101.11605.pdf>`_
+
 - `An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale <https://openreview.net/pdf?id=YicbFdNTTy>`_
 
 - `Rethinking Attention with Performers <https://arxiv.org/pdf/2009.14794.pdf>`_
