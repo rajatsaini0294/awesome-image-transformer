@@ -17,7 +17,7 @@ Papers
 
 - `Bottleneck Transformers for Visual Recognition <https://arxiv.org/pdf/2101.11605.pdf>`_
 
-- `An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale <https://openreview.net/pdf?id=YicbFdNTTy>`_
+- `An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale <https://openreview.net/pdf?id=YicbFdNTTy>`_ |iclr| |paper-2021|
 
 - `Rethinking Attention with Performers <https://arxiv.org/pdf/2009.14794.pdf>`_
 
@@ -37,3 +37,16 @@ Papers
 ****
 
 - `Image Transformer <https://arxiv.org/pdf/1802.05751.pdf>`_
+
+
+.. |cvpr| image:: badges/cvpr.svg
+	:align: top
+
+.. |iclr| image:: badges/iclr.svg
+	:align: top
+	
+.. |paper-2020| image:: badges/2020.svg
+	:align: top
+
+.. |paper-2021| image:: badges/2021.svg
+	:align: top
