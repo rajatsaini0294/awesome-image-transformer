@@ -30,7 +30,7 @@ Papers
 2020
 ****
 
-- `End-to-End Object Detection with Transformers <https://arxiv.org/pdf/2005.12872.pdf>`_
+- `End-to-End Object Detection with Transformers <https://arxiv.org/pdf/2005.12872.pdf>`_ |eccv| |paper-2020|
 
 
 2018
@@ -38,6 +38,9 @@ Papers
 
 - `Image Transformer <https://arxiv.org/pdf/1802.05751.pdf>`_
 
+
+.. |eccv| image:: badges/eccv.svg
+	:align: top
 
 .. |cvpr| image:: badges/cvpr.svg
 	:align: top
