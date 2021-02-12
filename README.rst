@@ -27,10 +27,18 @@ Papers
 
 - `UP-DETR: Unsupervised Pre-training for Object Detection with Transformers <https://arxiv.org/pdf/2011.09094.pdf>`_
 
+- `SETR: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers <https://arxiv.org/pdf/2012.15840.pdf>`_
+
+- `Training data-efficient image transformers & distillation through attention <https://arxiv.org/pdf/2012.12877.pdf>`_
+
 2020
 ****
 
 - `End-to-End Object Detection with Transformers <https://arxiv.org/pdf/2005.12872.pdf>`_ |eccv| |paper-2020|
+
+- `Rethinking Transformer-based Set Prediction for Object Detection <https://arxiv.org/pdf/2011.10881.pdf>`_
+
+- `ViT-FRCNN: Toward Transformer-Based Object Detection <https://arxiv.org/pdf/2012.09958.pdf>`_
 
 
 2018
