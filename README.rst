@@ -19,7 +19,17 @@ Papers
 
 - `An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale <https://openreview.net/pdf?id=YicbFdNTTy>`_ |iclr| |paper-2021|
 
-- `Rethinking Attention with Performers <https://arxiv.org/pdf/2009.14794.pdf>`_
+- `Rethinking Attention with Performers <https://arxiv.org/pdf/2009.14794.pdf>`_ |iclr| |paper-2021|
+
+- `Deformable DETR: Deformable Transformers for End-To-End Object Detection <https://openreview.net/pdf?id=gZ9hCDWe6ke>`_ |iclr| |paper-2021|
+
+- `LambdaNetworks: Modeling long-range Interactions without Attention <https://openreview.net/pdf?id=xTJEN-ggl1b>`_ |iclr| |paper-2021|
+
+- `A Universal Representation Transformer Layer for Few-Shot Image Classification <https://openreview.net/pdf?id=04cII6MumYV>`_ |iclr| |paper-2021|
+
+- `DeLighT: Deep and Light-weight Transformer <https://openreview.net/pdf?id=ujmgfuxSLrO>`_ |iclr| |paper-2021|
+
+- `Colorization Transformer <https://openreview.net/pdf?id=5NA1PinlGFu>`_ |iclr| |paper-2021|
 
 - `End-to-end Lane Shape Prediction with Transformers <https://arxiv.org/pdf/2011.04233.pdf>`_
 
